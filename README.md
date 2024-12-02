@@ -15,7 +15,8 @@ Each entry includes a brief summary, publication details, and direct links to th
 ## 🏆 Top 15 AI Research Papers
 
 
-### 1. Error fetching title: 'NoneType' object has no attribute 'text' 📈
+### 1. Audiobox TTA-RAG: Improving Zero-Shot and Few-Shot Text-To-Audio with
+  Retrieval-Augmented Generation") 📈
 
 - **Authors**: Mu Yang (H-index: 57.0), Bowen Shi (H-index: 19.0)
 - **Published**: 2024-11-07T19:50:28Z
@@ -24,7 +25,8 @@ performance on zero-shot and few-shot settings. It is often challenging to
 generate high-quality audio for audio events that ...
 - [📄 PDF Link](http://arxiv.org/pdf/2411.05141v1.pdf)
 
-### 2. Error fetching title: 'NoneType' object has no attribute 'text' 📈
+### 2. SAFES: Sequential Privacy and Fairness Enhancing Data Synthesis for
+  Responsible AI") 📈
 
 - **Authors**: Spencer Giddens (H-index: 3.0), Fang Liu (H-index: 131.0)
 - **Published**: 2024-11-14T04:36:12Z
@@ -33,7 +35,8 @@ disciplines, it is crucial that both data privacy and decision fairness are
 appropriately addressed. While differential pr...
 - [📄 PDF Link](http://arxiv.org/pdf/2411.09178v2.pdf)
 
-### 3. Error fetching title: 'NoneType' object has no attribute 'text' 📈
+### 3. E2E-AFG: An End-to-End Model with Adaptive Filtering for
+  Retrieval-Augmented Generation") 📈
 
 - **Authors**: Yun Jiang (H-index: 78.0), Zilong Xie (H-index: 14.0)
 - **Published**: 2024-11-01T08:02:09Z
@@ -42,7 +45,7 @@ retrieved from external knowledge bases, resulting in irrelevant information or
 potential misinformation that negatively aff...
 - [📄 PDF Link](http://arxiv.org/pdf/2411.00437v1.pdf)
 
-### 4. Error fetching title: 'NoneType' object has no attribute 'text' 📈
+### 4. PersianRAG: A Retrieval-Augmented Generation System for Persian Language") 📈
 
 - **Authors**: Hossein Hosseini (H-index: 57.0), Mohammad Sobhan Zare (H-index: 0.0)
 - **Published**: 2024-11-05T06:11:17Z
@@ -51,7 +54,7 @@ pre-trained generative models with external retrieval mechanisms, have shown
 significant success in various natural language pr...
 - [📄 PDF Link](http://arxiv.org/pdf/2411.02832v2.pdf)
 
-### 5. Error fetching title: 'NoneType' object has no attribute 'text' 📈
+### 5. Where Assessment Validation and Responsible AI Meet") 📈
 
 - **Authors**: Jill Burstein (H-index: 51.0), Geoffrey T. LaFlair (H-index: 13.0)
 - **Published**: 2024-11-04T20:20:29Z
@@ -60,7 +63,7 @@ classical argument-based assessment validation theory. These principles are
 also central to the Standards for Educational an...
 - [📄 PDF Link](http://arxiv.org/pdf/2411.02577v1.pdf)
 
-### 6. Error fetching title: 'NoneType' object has no attribute 'text' 📈
+### 6. Sufficient Context: A New Lens on Retrieval Augmented Generation Systems") 📈
 
 - **Authors**: Hailey Joren (H-index: 6.0), Jianyi Zhang (H-index: 103.0)
 - **Published**: 2024-11-09T02:13:14Z
@@ -69,7 +72,8 @@ applications. Despite much research on Retrieval Augmented Generation (RAG)
 systems, an open question is whether errors arise bec...
 - [📄 PDF Link](http://arxiv.org/pdf/2411.06037v1.pdf)
 
-### 7. Error fetching title: 'NoneType' object has no attribute 'text' 📈
+### 7. Fine-Grained Guidance for Retrievers: Leveraging LLMs' Feedback in
+  Retrieval-Augmented Generation") 📈
 
 - **Authors**: Yuhang Liu (H-index: 40.0), Xueyu Hu (H-index: 13.0)
 - **Published**: 2024-11-06T14:42:39Z
@@ -78,7 +82,8 @@ mitigating hallucination issues inherent in large language models (LLMs).
 Previous approaches typically train retrievers b...
 - [📄 PDF Link](http://arxiv.org/pdf/2411.03957v1.pdf)
 
-### 8. Error fetching title: 'NoneType' object has no attribute 'text' 📈
+### 8. Responsible AI in Construction Safety: Systematic Evaluation of Large
+  Language Models and Prompt Engineering") 📈
 
 - **Authors**: Farouq Sammour (H-index: 4.0), Jia Xu (H-index: 66.0)
 - **Published**: 2024-11-13T04:06:09Z
@@ -87,7 +92,8 @@ in AI, particularly Large Language Models (LLMs), offer promising opportunities
 for enhancing workplace safety. However, res...
 - [📄 PDF Link](http://arxiv.org/pdf/2411.08320v1.pdf)
 
-### 9. Error fetching title: 'NoneType' object has no attribute 'text' 📈
+### 9. LLMs are Biased Evaluators But Not Biased for Retrieval Augmented
+  Generation") 📈
 
 - **Authors**: Yen-Shan Chen (H-index: 0.0), Jing Jin (H-index: 72.0)
 - **Published**: 2024-10-28T08:32:09Z
@@ -96,7 +102,7 @@ significant biases in evaluation tasks, particularly in preferentially rating
 and favoring self-generated content. However, t...
 - [📄 PDF Link](http://arxiv.org/pdf/2410.20833v1.pdf)
 
-### 10. Error fetching title: 'NoneType' object has no attribute 'text' 📈
+### 10. Retrieval-Augmented Generation with Estimation of Source Reliability") 📈
 
 - **Authors**: Jeongyeon Hwang (H-index: 19.0), Junyoung Park (H-index: 40.0)
 - **Published**: 2024-10-30T12:09:29Z
@@ -105,7 +111,8 @@ language models (LLMs), such as hallucinations and outdated knowledge, by
 incorporating external databases. These databases typi...
 - [📄 PDF Link](http://arxiv.org/pdf/2410.22954v1.pdf)
 
-### 11. Error fetching title: 'NoneType' object has no attribute 'text' 📈
+### 11. Retrieval-Augmented Generation for Domain-Specific Question Answering: A
+  Case Study on Pittsburgh and CMU") 📈
 
 - **Authors**: Haojia Sun (H-index: 32.0), Yaqi Wang (H-index: 26.0)
 - **Published**: 2024-11-20T20:10:43Z
@@ -114,7 +121,8 @@ language models with relevant documents for answering domain-specific questions
 about Pittsburgh and Carnegie Mellon Universi...
 - [📄 PDF Link](http://arxiv.org/pdf/2411.13691v1.pdf)
 
-### 12. Error fetching title: 'NoneType' object has no attribute 'text' 📈
+### 12. CORAG: A Cost-Constrained Retrieval Optimization System for
+  Retrieval-Augmented Generation") 📈
 
 - **Authors**: Ziting Wang (H-index: 20.0), Haitao Yuan (H-index: 21.0)
 - **Published**: 2024-11-01T17:11:16Z
@@ -123,7 +131,7 @@ capabilities but often struggle to access up-to-date information, which can
 lead to hallucinations. Retrieval-Augmented Generation ...
 - [📄 PDF Link](http://arxiv.org/pdf/2411.00744v1.pdf)
 
-### 13. Error fetching title: 'NoneType' object has no attribute 'text' 📈
+### 13. Likelihood as a Performance Gauge for Retrieval-Augmented Generation") 📈
 
 - **Authors**: Tianyu Liu (H-index: 28.0), Jirui Qi (H-index: 3.0)
 - **Published**: 2024-11-12T13:14:09Z
@@ -132,7 +140,8 @@ models is prone to be influenced by the order of retrieved documents in the
 context. However, the lack of in-depth analysis li...
 - [📄 PDF Link](http://arxiv.org/pdf/2411.07773v1.pdf)
 
-### 14. Error fetching title: 'NoneType' object has no attribute 'text' 📈
+### 14. Public Procurement for Responsible AI? Understanding U.S. Cities'
+  Practices, Challenges, and Needs") 📈
 
 - **Authors**: Nari Johnson (H-index: 5.0), Elise Silva (H-index: 40.0)
 - **Published**: 2024-11-07T18:58:16Z
@@ -141,7 +150,8 @@ instead are acquired from third-party vendors in a process called public
 procurement. While scholars and regulatory proposals hav...
 - [📄 PDF Link](http://arxiv.org/pdf/2411.04994v1.pdf)
 
-### 15. Error fetching title: 'NoneType' object has no attribute 'text' 📈
+### 15. Mask-based Membership Inference Attacks for Retrieval-Augmented
+  Generation") 📈
 
 - **Authors**: Mingrui Liu (H-index: 18.0), Sixiao Zhang (H-index: 6.0)
 - **Published**: 2024-10-26T10:43:39Z
