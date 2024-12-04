@@ -1,4 +1,6 @@
 
+# ![](logo.png)
+
 # 🧠 Monthly AI Paper Roundup: Top AI Research Papers
 
 Welcome to our curated list of the **top AI research papers** from the past month. Here we summarize and highlight the most impactful papers across key AI domains, including **Reinforcement Learning**, **Explainable AI**, **Ontology**, and more. This roundup aims to make cutting-edge AI research accessible for non-technical audiences. 🚀
